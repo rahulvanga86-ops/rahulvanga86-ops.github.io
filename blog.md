@@ -7,5 +7,5 @@ title: Blog
 
 Here are my thoughts on credit risk and private debt:
 
-* [Understanding CLO Waterfalls](/2025/06/01/clo-waterfall.html)
-* [Volatility in Private Credit](/2025/09/01/volatility-private-credit.html)
+* [Understanding CLO Waterfalls](/clo-waterfall/)
+* [Volatility in Private Credit](/volatility-private-credit/)
