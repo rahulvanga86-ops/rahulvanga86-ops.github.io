@@ -3,4 +3,5 @@
 ## Simple Loan Portfolio Analysis (Python)
 A basic Python project analyzing loan-level data to compute total exposure, weighted average margin, exposure by credit rating, and simple loss sensitivity.
 
-[View project on GitHub](https://github.com/<your-username>/rahulvanga.github.io/tree/main/projects/loan-portfolio-python)
+[View project on GitHub](https://github.com/rahulvanga86-ops/rahulvanga.github.io/tree/main/projects/loan-portfolio-python)
+
