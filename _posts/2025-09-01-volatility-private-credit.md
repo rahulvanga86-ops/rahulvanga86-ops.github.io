@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Why Volatility Is a Poor Risk Measure for Private Credit
-permalink: /volatility-private-credit/
 ---
 
 ## Introduction
