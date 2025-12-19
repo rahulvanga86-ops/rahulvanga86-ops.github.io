@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # About
 
 I work in structured credit and portfolio services, supporting private debt and CLO-style mandates for institutional asset managers.
