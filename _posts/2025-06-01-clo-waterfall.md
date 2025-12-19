@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Understanding CLO Waterfalls
-permalink: /clo-waterfall/
 ---
 
 ## Introduction
